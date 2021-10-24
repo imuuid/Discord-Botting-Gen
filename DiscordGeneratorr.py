@@ -43,7 +43,7 @@ color = f"{Fore.CYAN}{Style.BRIGHT}"
 
 
 os.system("cls & title Menu")
-print(f"{Fore.LIGHTRED_EX}Tool Made By uuid#0002  &  ᴜʀ | ᴅᴀᴅᴅʏ#2678 ") 
+print(f"{Fore.LIGHTRED_EX}Tool Made By uuid#0002  &  ᴜʀ | ᴅᴀᴅᴅʏ#2678 ( it's a REMAKE )") 
 print(f"""{Fore.LIGHTRED_EX}
  ▄▄▄▄    ▒█████  ▄▄▄█████▓▄▄▄█████▓ ██▓ ███▄    █   ▄████      ▄████ ▓█████  ███▄    █ 
 ▓█████▄ ▒██▒  ██▒▓  ██▒ ▓▒▓  ██▒ ▓▒▓██▒ ██ ▀█   █  ██▒ ▀█▒    ██▒ ▀█▒▓█   ▀  ██ ▀█   █ 
